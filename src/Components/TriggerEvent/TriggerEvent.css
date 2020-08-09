@@ -1,0 +1,20 @@
+.trigger-event {
+  border: 5px solid white;
+  margin: 10px;
+  background-color: #246bb3;
+  justify-content: center;
+  text-align: center;
+
+  cursor: pointer;
+}
+
+div {
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 200%;
+}
+
+.trigger-event:hover {
+  border: 5px solid blue;
+  background-color: white;
+}
